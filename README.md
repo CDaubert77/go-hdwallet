@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ba1ebaebe484a43890a539f7168bc12)](https://app.codacy.com/gh/CDaubert77/go-hdwallet?utm_source=github.com&utm_medium=referral&utm_content=CDaubert77/go-hdwallet&utm_campaign=Badge_Grade)
 Go HD Wallet tools [![Build Status](https://travis-ci.org/wemeetagain/go-hdwallet.svg?branch=master)](https://travis-ci.org/wemeetagain/go-hdwallet)
 ------------------
 
